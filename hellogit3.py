@@ -1,1 +1,1 @@
-print("nuevas fucionalidades llegando")
+print("nuevas fucionalidades llegando en logging")
